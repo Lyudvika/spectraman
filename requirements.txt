@@ -1,5 +1,6 @@
 numpy
 scipy
 matplotlib
+plotly
 ipywidgets>=8
 voila
